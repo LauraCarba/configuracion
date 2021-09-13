@@ -1,6 +1,7 @@
-grupo: "Academia"
+  
+grupo: "Academia de Laurensia"
 
 aplicacion:
-  lenguaje: es
-  pais: mx
   version: 1.0
+  pais: "mx"
+  lenguaje: "es"
