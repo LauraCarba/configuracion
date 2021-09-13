@@ -1,5 +1,6 @@
+grupo: "Academia"
+
 aplicacion:
   lenguaje: es
   pais: mx
   version: 1.0
-grupo: Academia
